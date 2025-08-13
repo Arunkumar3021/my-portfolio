@@ -104,7 +104,7 @@ export default function App() {
             <p className="text-sm text-indigo-600 font-medium">Hello, I'm Arun —</p>
             <h2 className="text-3xl md:text-4xl font-extrabold leading-tight">Software Developer focused on Python, Web and Machine Learning</h2>
             <p className="text-gray-600 max-w-xl">
-              MCA graduate building production-ready applications and data-driven systems. I enjoy turning data into insights and shipping polished software.
+              MCA graduate with strong skills in Python, Java, and data analysis. Passionate about learning new technologies and building projects that solve real-world problems.
             </p>
 
             <div className="flex gap-3 mt-4 flex-wrap">
@@ -117,7 +117,7 @@ export default function App() {
             </div>
 
             <div className="flex items-center gap-4 mt-4 text-gray-600">
-              <a href="https://github.com/akarunkumar03" aria-label="GitHub" className="hover:text-gray-900 inline-flex items-center gap-2">
+              <a href="https://github.com/Arunkumar3021/my-portfolio" aria-label="GitHub" className="hover:text-gray-900 inline-flex items-center gap-2">
                 <Github size={18} /> <span className="hidden sm:inline">GitHub</span>
               </a>
 
@@ -151,7 +151,7 @@ export default function App() {
         <section id="about" className="mt-12">
           <motion.h3 initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} className="text-2xl font-semibold">About</motion.h3>
           <motion.p initial={{ opacity: 0, y: 8 }} whileInView={{ opacity: 1, y: 0 }} transition={{ duration: 0.5 }} className="mt-3 text-gray-600 max-w-3xl">
-            I am an MCA graduate with hands-on experience building web applications and machine learning systems. I build robust backend services using Python and Django, preprocess and analyze data with Pandas & NumPy, and prototype deep-learning models for video and image tasks.
+            I am an MCA graduate with hands-on experience building web applications and machine learning systems, along with internship experience in Salesforce CRM. During my internship, I learned to use Salesforce tools and the platform to design, customize, and deploy CRM solutions. I build robust backend services using Python and Django, preprocess and analyze data with Pandas & NumPy, and prototype deep-learning models for video and image tasks.
           </motion.p>
         </section>
 
@@ -211,7 +211,7 @@ export default function App() {
               <p className="text-gray-600 mt-2">Email me at <a className="text-indigo-600" href="mailto:akarunkumar882@gmail.com">akarunkumar882@gmail.com</a> or send a message through the form below.</p>
 
               <div className="mt-6 flex gap-4">
-                <a href="https://github.com/akarunkumar03" className="inline-flex items-center gap-2 text-sm hover:text-gray-900">
+                <a href="https://github.com/Arunkumar3021/my-portfolio" className="inline-flex items-center gap-2 text-sm hover:text-gray-900">
                   <Github size={16} /> GitHub
                 </a>
                 <a href={LINKEDIN_URL} target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 text-sm hover:text-blue-700">
